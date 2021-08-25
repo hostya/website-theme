@@ -1,11 +1,11 @@
 <?php if ( defined('IN_GS') === false ){ die('You cannot load this file directly.'); }
-/****************************************************
+/*************************************************************************************
 *
-* @File: 	    template.php
-* @Package:		GetSimple CMS
-* @Action:		HostedPro theme for GetSimple CMS
+* @File:        template.php
+* @Package:     HostedPro Website Theme
+* @Action:      Default Template
 *
-*****************************************************/
+*************************************************************************************/
 
 
 # Get this theme's settings based on what was entered within its plugin. 

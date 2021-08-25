@@ -10,7 +10,7 @@
 
 # Get this theme's settings based on what was entered within its plugin. 
 # This function is in functions.php 
-//$hostedpro_settings = HostedProTheme_Settings();
+$HostedProTheme_settings = HostedProTheme_Settings();
 
 # Include the header template
 include('includes/header.inc.php');

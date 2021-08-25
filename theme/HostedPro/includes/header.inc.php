@@ -23,12 +23,12 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
 	    
         <!-- Stylesheets -->
-        <link rel="stylesheet" id="bootstrap"      href="<?php get_theme_url(); ?>/assets/css/bootstrap.min.css" />
-        <link rel="stylesheet" id="fontawesome"    href="<?php get_theme_url(); ?>/assets/css/font-awesome.min.css" />
-        <link rel="stylesheet" id="main-style"     href="<?php get_theme_url(); ?>/assets/css/main-styles.css" />
+        <link rel="stylesheet" id="bootstrap"      href="<?php get_theme_url(); ?>/assets/3rdparty/bootstrap/bootstrap.min.css" />
+        <link rel="stylesheet" id="fontawesome"    href="<?php get_theme_url(); ?>/assets/3rdparty/font-awesome/font-awesome.min.css" />
+        <link rel="stylesheet" id="main-style"     href="<?php get_theme_url(); ?>/assets/styles/main-styles.css" />
         <!-- @TODO: Implement more color options and get selected color from theme settings plugin -->
-        <link rel="stylesheet" id="theme-color"    href="<?php get_theme_url(); ?>/assets/css/colors/blue.css" />
-        <link rel="stylesheet" id="custom-styles"  href="<?php get_theme_url(); ?>/assets/css/custom.css" />
+        <link rel="stylesheet" id="theme-color"    href="<?php get_theme_url(); ?>/assets/styles/colors/blue.css" />
+        <link rel="stylesheet" id="custom-styles"  href="<?php get_theme_url(); ?>/assets/styles/custom.css" />
       
         <!--
              @TODO: Add metadata/opengraph/twittercard support

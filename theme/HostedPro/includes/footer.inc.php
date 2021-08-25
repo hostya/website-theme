@@ -1,9 +1,9 @@
 <?php if ( defined('IN_GS') === false ) { die('You cannot load this file directly.'); }
 /***************************************************************************************************
 *
-* @File: 	    footer.inc.php
-* @Package:		HostedPro Website Theme
-* @Action:		Global Website Footer Area
+* @File:        footer.inc.php
+* @Package:     HostedPro Website Theme
+* @Action:      Global Website Footer Area
 *
 *************************************************************************************************/?>
 

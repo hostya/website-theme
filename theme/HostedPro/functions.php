@@ -1,11 +1,11 @@
 <?php if ( defined('IN_GS') === false ){ die('you cannot load this file directly.'); }
-/****************************************************
+/*************************************************************************************
 *
 * @File:        functions.php
 * @Package:     HostedPro Website Theme
 * @Action:      Adds functionality to the theme
 *
-*****************************************************/
+**************************************************************************************/
 
 function HostedProTheme_GetNavigation( bool $echo = true ) : string
 {
